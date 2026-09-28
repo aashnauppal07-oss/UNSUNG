@@ -1,0 +1,1 @@
+{ "name": "unsung", "version": "1.0.0", "description": "Unsung - Invisible Work Tracker", "scripts": { "start": "npx serve ." } }
